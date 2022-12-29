@@ -95,3 +95,7 @@ a {
     color-scheme: dark;
   }
 }
+
+.navbar-nav .nav-link.active {
+  font-weight: bold !important;
+}
